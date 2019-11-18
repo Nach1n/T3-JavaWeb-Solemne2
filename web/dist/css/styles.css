@@ -1,0 +1,18 @@
+.page-link{
+    color: #03a9f3;
+}
+
+.page-item .active{
+    color: #03a9f3;
+}
+
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #03a9f3;
+    border-color: #03a9f3;
+}
+
+.cont{
+    height: 50%;
+}
